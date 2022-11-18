@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Волшебные числа", "Волшебные числа\Волшебные числа.csproj", "{09F1D493-EC56-43B2-AD27-90D05BD29C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F1D493-EC56-43B2-AD27-90D05BD29C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F1D493-EC56-43B2-AD27-90D05BD29C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F1D493-EC56-43B2-AD27-90D05BD29C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F1D493-EC56-43B2-AD27-90D05BD29C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55A43AF4-0764-4184-9DAF-13FD243D129F}
+	EndGlobalSection
+EndGlobal
