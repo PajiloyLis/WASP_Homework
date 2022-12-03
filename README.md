@@ -9,7 +9,7 @@
 Домашка 1         | 🟢    | <a href="https://github.com/PajiloyLis/WASP_Homework/tree/main/Homework_1">Перейти</a>
 Автопарк          | 🟡    | <a href="https://github.com/PajiloyLis/WASP_Homework/tree/main/Autopark">Перейти</a>
 Магазин музыкальных дисков| 🟡    | <a href="https://github.com/PajiloyLis/WASP_Homework/tree/main/Music_Disk_Store">Перейти</a>
-
+Кодовый замок| 🟡    | <a href="https://github.com/PajiloyLis/WASP_Homework/tree/main/Combination_loack">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
