@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Combination_lock.MainPage">
+
+    <Grid
+        ColumnDefinitions="*, *, *"
+        RowDefinitions="2*, *, *, *, *"
+        >
+        <Button Grid.Column="0" Grid.Row="1" Text="1" Clicked="DigitClicked"/>
+        <Button Grid.Column="1" Grid.Row="1" Text="2" Clicked="DigitClicked"/>
+        <Button Grid.Column="2" Grid.Row="1" Text="3" Clicked="DigitClicked"/>
+        <Button Grid.Column="0" Grid.Row="2" Text="4" Clicked="DigitClicked"/>
+        <Button Grid.Column="1" Grid.Row="2" Text="5" Clicked="DigitClicked"/>
+        <Button Grid.Column="2" Grid.Row="2" Text="6" Clicked="DigitClicked"/>
+        <Button Grid.Column="0" Grid.Row="3" Text="7" Clicked="DigitClicked"/>
+        <Button Grid.Column="1" Grid.Row="3" Text="8" Clicked="DigitClicked"/>
+        <Button Grid.Column="2" Grid.Row="3" Text="9" Clicked="DigitClicked"/>
+        <Button Grid.Column="0" Grid.Row="4" Text="✕" Clicked="ClearClicked"/>
+        <Button Grid.Column="1" Grid.Row="4" Text="0" Clicked="DigitClicked"/>
+        <Button Grid.Column="2" Grid.Row="4" Text="✓" Clicked="ConfirmClicked"/>
+
+        <Label x:Name="DisplayLabel" Grid.ColumnSpan="3" FontSize="40" HorizontalTextAlignment="End"
+               VerticalTextAlignment="End" Margin="0, 0, 20, 10"/>
+
+    </Grid>
+
+</ContentPage>
